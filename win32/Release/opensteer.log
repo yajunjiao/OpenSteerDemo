@@ -1,0 +1,34 @@
+﻿E:\vs\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(OpenSteerDemo.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Using triplet "x86-windows" from "G:\code\graphic\glad\vcpkg\installed\x86-windows\"
+  main.cpp
+  OldPathway.cpp
+  OpenSteerDemo.cpp
+G:\code\ai\code\src\OpenSteerDemo.cpp(891,27): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(891,25): warning C4244: “初始化”: 从“int”转换到“const GLfloat”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(892,27): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(892,25): warning C4244: “初始化”: 从“int”转换到“const GLfloat”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(987,32): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(987,28): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(988,32): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(988,28): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(1044,33): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(1044,23): warning C4244: “初始化”: 从“int”转换到“const float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(1507,20): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+G:\code\ai\code\src\OpenSteerDemo.cpp(1514,20): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  Path.cpp
+  PolylineSegmentedPath.cpp
+  PolylineSegmentedPathwaySegmentRadii.cpp
+  PolylineSegmentedPathwaySingleRadius.cpp
+  SegmentedPath.cpp
+  SegmentedPathway.cpp
+  TerrainRayTest.cpp
+G:\code\ai\code\src\TerrainRayTest.cpp(139,107): warning C4244: “参数”: 从“TRTScalar”转换到“float”，可能丢失数据
+G:\code\ai\code\src\TerrainRayTest.cpp(139,83): warning C4244: “参数”: 从“TRTScalar”转换到“float”，可能丢失数据
+G:\code\ai\code\src\TerrainRayTest.cpp(140,86): warning C4244: “参数”: 从“TRTScalar”转换到“float”，可能丢失数据
+G:\code\ai\code\src\TerrainRayTest.cpp(140,56): warning C4244: “参数”: 从“TRTScalar”转换到“float”，可能丢失数据
+G:\code\ai\code\src\TerrainRayTest.cpp(57,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Vec3Utilities.cpp
+  正在生成代码...
+  opensteer.vcxproj -> G:\code\ai\code\win32\Release\opensteer.lib
+  子目录或文件 G:\code\ai\code\win32\\lib 已经存在。
+  已复制         1 个文件。

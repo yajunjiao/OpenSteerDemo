@@ -1,0 +1,7 @@
+﻿E:\vs\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(opensteer.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Using triplet "x86-windows" from "G:\code\graphic\glad\vcpkg\installed\x86-windows\"
+  PedestriansWalkingAnEight.cpp
+E:\vs\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(OpenSteerDemo.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  steertest.vcxproj -> G:\code\ai\code\win32\Release\OpenSteerDemo.exe
+  子目录或文件 G:\code\ai\code\win32\\bin 已经存在。
+  已复制         1 个文件。
